@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Super Mario</title>
+  </head>
+  <body>
+    <header>
+      <div>
+      <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mario_Series_Logo.svg/1024px-Mario_Series_Logo.svg.png" alt="logo super mario">
+      <nav>
+        <ul>
+          <li><a href="a">inicio</a></li>
+          <li><a href="a">sobre</a></li>
+          <li><a href="a">galeria</a></li>
+        </ul>
+      </nav>
+      </div>
+    </header>
+    <main>
+      <section class="intro-container">
+        <section class="container-personagens">
+<img class="img-intro" src="https://cdn02.nintendo-europe.com/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_supermario3dlandandbowsersfury/SuperMario3DWorld_BowersFury_Overview_intro_chars.png" alt="personagens super mario">
+          <div class="box-text">
+            <h2>Super Mário</h2>
+            <p>O Super Mário (ou somente Mário para os mais chegados) é um encanador, tem um jeitão de italiano, um irmão que é praticamente a sua cara e passa a vida resgatando a princesa Peach das garras do terrível Bowser.</p>
+          </div>
+        </section>
+        <section class="container-image">
+          <div>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3v-di-eHLN-doXrLlG6yeqovieD9r57P2w&usqp=CAU" alt="cogumelo">
+          </div>
+          <div>
+            <img src="https://cdn.vox-cdn.com/thumbor/q86cfIgaaRxt7n5UG2iQEGx4Gls=/0x84:1024x767/1400x1050/filters:focal(0x84:1024x767):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/47185140/OZJlR3q.0.0.png" alt="">
+          </div>
+          <div>
+            <img src="https://3.bp.blogspot.com/-7K7cTqcYbSQ/V-MswHgXlfI/AAAAAAAAEqM/d6uUZ80oKWEvxeyC0DGqn2VZv2lL9cBJACLcB/s1600/Super%2BMario%2BBros%2BII%2B1998%2Bhack_Aug13%2B4_48_24%2B%25281%2529.png" alt="">
+          </div>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>
